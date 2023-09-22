@@ -3,6 +3,5 @@
 - CWID : 886218288\
 - Email : hgobbur@csu.fullerton.edu\
 - Languages : HTML and CSS\
-- References : No templates used, random tutorials on youtube used
-
-https://www.youtube.com/watch?v=HGTJBPNC-Gw&t=7412s
+- References : No templates used, random tutorials on youtube used\
+- Tutorial used : https://www.youtube.com/watch?v=HGTJBPNC-Gw&t=7412s
