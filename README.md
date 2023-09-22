@@ -1,5 +1,5 @@
 # harshGobbur.github.io
-Name : Harsh Gobbur
+# Name : Harsh Gobbur
 CWID : 886218288
 Email : hgobbur@csu.fullerton.edu
 Languages : HTML and CSS
