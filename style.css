@@ -1,0 +1,65 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color:white;
+    text-align:center;
+    font-family:'Montserrat', sans-serif;
+    font-size:45px;
+}
+
+h3{
+    color:white;
+    font-size:20px;
+    font-style: italic;
+}
+
+p{
+    color:white;
+    font-family:'Open Sans', sans-serif;
+    font-size:18.6px;
+    border-style:solid;
+    border-color:gold;
+    border-width:2px;
+    border-radius:3px;
+    padding:15px;
+}
+
+ul{
+    color:white;
+    font-family:'Open Sans', sans-serif;
+}
+
+a{
+    color:gold;
+    text-decoration:none;
+    font-family:'Open Sans', sans-serif;
+}
+
+a:hover{
+    color:darkgray;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 200px;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+}
